@@ -17,6 +17,7 @@ Navegar a la carpeta *Scenes* y abrir la escena *Title*. Despues darle al play y
 - Lluvia y musica dinamicas
 - Distintas capas en las que puede estar el personaje y cada una se superpone a la otra
 - Nubes
+- Camara con ligero movimiento para ser mas inmersivo
 - Cofre interactivo
 - Altar (en la parte de arriba) interactivo con la lluvia
 
